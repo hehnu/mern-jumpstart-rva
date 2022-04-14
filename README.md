@@ -6,14 +6,14 @@ Welcome to JumpStart RVA! An interactive online social platform for middle schoo
 
 
 
-![](login.gif)
+![](Readme/login.gif)
 
 
 
 
 
 
-![](ui-walkthrough.gif)
+![](Readme/ui-walkthrough.gif)
 
 
 
@@ -21,7 +21,7 @@ Welcome to JumpStart RVA! An interactive online social platform for middle schoo
 
 
 
-![](click-on-home.gif)
+![](Readme/click-on-home.gif)
 
 
 
