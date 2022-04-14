@@ -21,7 +21,7 @@ Welcome to JumpStart RVA! An interactive online social platform for middle schoo
 
 
 
-![](Readme/click-on-home.gif)
+![](Readme/Image-3.png)
 
 
 
