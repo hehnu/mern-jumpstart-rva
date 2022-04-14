@@ -25,6 +25,22 @@ Welcome to JumpStart RVA! An interactive online social platform for middle schoo
 
 
 
+## Features
+
+User login and authentication
+Image upload
+Like posts, comments, replies
+Create, read, update, delete posts and comments
+See likes for posts, comments, replies
+Follow, unfollow users
+Update user information
+Search users
+User notifications on posts, comments, replies and tags on posts 
+Realtime message notifications and activity status of other users
+
+
+
+
 
 [![Watch video here](http://img.youtube.com/vi/_jha3vN174s/0.jpg)](http://www.youtube.com/watch?v=_jha3vN174s)
 
@@ -47,13 +63,6 @@ Welcome to JumpStart RVA! An interactive online social platform for middle schoo
 
 
 
-
-
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -64,11 +73,13 @@ cd over to the api and client directories and run:
 
 ### `npm install`
 
-then run
+to install dependencies, then run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+to start server.
+
+This runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
