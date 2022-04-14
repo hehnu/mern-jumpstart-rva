@@ -27,16 +27,16 @@ Welcome to JumpStart RVA! An interactive online social platform for middle schoo
 
 ## Features
 
-User login and authentication
-Image upload
-Like posts, comments, replies
-Create, read, update, delete posts and comments
-See likes for posts, comments, replies
-Follow, unfollow users
-Update user information
-Search users
-User notifications on posts, comments, replies and tags on posts 
-Realtime message notifications and activity status of other users
+*User login and authentication
+*Image upload
+*Like posts, comments, replies
+*Create, read, update, delete posts and comments
+*See likes for posts, comments, replies
+*Follow, unfollow users
+*Update user information
+*Search users
+*User notifications on posts, comments, replies and tags on posts 
+*Realtime message notifications and activity status of other users
 
 
 
