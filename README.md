@@ -35,7 +35,8 @@ Welcome to JumpStart RVA! An interactive online social platform for middle schoo
 - Follow and unfollow users
 - Update user information
 - Search for users
-- User notifications on posts, comments, replies and tags on posts 
+- User notifications on posts, comments, replies and tags on posts
+- Pin location on posts 
 - Realtime message notifications and activity status of other users
 
 
