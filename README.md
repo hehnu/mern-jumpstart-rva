@@ -41,7 +41,7 @@ Welcome to JumpStart RVA! An interactive online social platform for middle schoo
 
 
 
-================================================================================================================================================================
+=====================================================================================================================================================
 
 
 
@@ -60,7 +60,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+cd over to the api and client directories and run:
+
+### `npm install`
+
+then run
 
 ### `npm start`
 
